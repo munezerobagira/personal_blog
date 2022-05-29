@@ -1,0 +1,16 @@
+{
+  "name": "personal_blog",
+  "version": "1.0.0",
+  "description": "Repository responsible for handling my personal blogs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "gray-matter": "^4.0.3"
+  }
+}
+
